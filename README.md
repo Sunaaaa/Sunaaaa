@@ -1,6 +1,6 @@
 ### Hi there 👋
  
-- 💬 I'm on Project ...
+- 💬 I'm on Rest ...
 - 🌱 I learned Java
 - 🌱 I learned Python
 - 🌱 I learned Java Script
