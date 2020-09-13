@@ -5,7 +5,7 @@
 - 🌱 I learned Python
 - 🌱 I learned Java Script
 - 🌱 I learned Vue.js
-- 🌱 I’m currently learning Spring
+- 🌱 I’m currently developing
  
 <!--
 **Sunaaaa/Sunaaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
