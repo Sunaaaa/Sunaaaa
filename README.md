@@ -4,6 +4,7 @@
 - 🌱 I learned Python
 - 🌱 I learned Java Script
 - 🌱 I learned Vue.js
+- 🌱 I’m currently learning Dart / Flutter
 - 🌱 I’m currently developing
  
 <!--
